@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Web | Mobile Development
-- 👯 I’m looking to collaborate on Web abd Mobile App Developement.
+- 👯 I’m looking to collaborate on Web and Mobile App Development.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: meashishpokhrel@gmail.com
