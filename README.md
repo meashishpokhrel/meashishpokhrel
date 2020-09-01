@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: meashishpokhrel@gmail.com
 
 ### About Me
-I am a computer Engineering Undergraduate Student. I am a Full Stack Developer or trying to be. I beleive in collaboration. Looking forward to help you out there with my skills. 
+I am a computer Engineering Undergraduate Student. I am a Full Stack Developer or trying to be. I believe in collaboration. Looking forward to help you out there with my skills. 
 Learn  more about me here: http://pokhrelashish.com.np/
