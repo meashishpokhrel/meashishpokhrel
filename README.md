@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Web | Mobile Development
+- 👯 I’m looking to collaborate on Web abd Mobile App Developement.
+- 📫 How to reach me: meashishpokhrel@gmail.com
 
 ### About Me
 I am a computer Engineering Undergraduate Student. I am a Full Stack Developer or trying to be. I beleive in collaboration. Looking forward to help you out there with my skills. 
